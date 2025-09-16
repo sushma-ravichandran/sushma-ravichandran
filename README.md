@@ -43,8 +43,8 @@ Here are some of my recent projects that demonstrate my skills in action. Each r
 
 #### 2. User Churn Prediction - Waze (ML Project)
 * **Tech Stack:** Python (Random Forest, XGBoost, Logistic Regression)
-* **Summary:** Developed machine learning models to forecast user churn, achieving **15.9% higher recall** than a baseline model by engineering features from user behavior.
-
+* **Summary:** Developed machine learning models to forecast user churn, with **XGBoost achieving 15.9% recall, nearly double the baseline logistic regression**, further boosted through feature engineering on user behavior data.
+  
 #### 3. Automotive Sales Forecasting (Kaggle Dataset)
 * **Tech Stack:** Tableau
 * **Summary:** Visualized automotive sales trends to provide **India-specific strategies**, including top-selling brands, fuel types, and key pricing tiers.
