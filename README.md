@@ -38,20 +38,24 @@
 Here are some of my recent projects that demonstrate my skills in action. Each repository contains a detailed README with a business-focused summary of my findings and the methodology I used.
 
 #### 1. Employee Attrition Prediction - Salifort Motors (HR Analytics)
-* **Tech Stack:** Python (Logistic Regression, Decision Trees, Random Forest)
+* **Tech Stack:** Python (Logistic Regression, Decision Trees)
 * **Summary:** Built predictive models with **96% accuracy** to forecast employee attrition and identified key factors like workload and tenure to recommend data-driven retention strategies.
+* [Project Repository](https://github.com/sushma-ravichandran/employee-attrition-prediction)
 
 #### 2. User Churn Prediction - Waze (ML Project)
 * **Tech Stack:** Python (Random Forest, XGBoost, Logistic Regression)
 * **Summary:** Developed machine learning models to forecast user churn, with **XGBoost achieving 15.9% recall, nearly double the baseline logistic regression**, further boosted through feature engineering on user behavior data.
+* [Project Repository](https://github.com/sushma-ravichandran/user-churn-prediction)
   
-#### 3. Automotive Sales Forecasting (Kaggle Dataset)
-* **Tech Stack:** Tableau
-* **Summary:** Visualized automotive sales trends to provide **India-specific strategies**, including top-selling brands, fuel types, and key pricing tiers.
+#### 3. Automobile Sales Forecasting (Kaggle Dataset)
+* **Tech Stack:** Tableau, Excel
+* **Summary:** Visualized automobile sales trends to provide **India-specific strategies**, including top-selling brands, fuel types, and key pricing tiers.
+* [Project Repository](https://github.com/sushma-ravichandran/automobile-sales-forecasting)
 
 #### 4. Behavioral Research on Decision-Making (M.Sc. Dissertation)
 * **Tech Stack:** IBM SPSS, Qualtrics
 * **Summary:** Conducted primary research to uncover gender-specific compliance patterns in ethical decision-making, demonstrating expertise in **experimental design and inferential analysis**.
+* [Project Repository](https://github.com/sushma-ravichandran/behavioural-research-on-decision-making)
 
 ---
 
