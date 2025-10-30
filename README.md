@@ -38,22 +38,22 @@
 Here are some of my recent projects that demonstrate my skills in action. Each repository contains a detailed README with a business-focused summary of my findings and the methodology I used.
 
 #### 1. Employee Attrition Prediction - Salifort Motors (HR Analytics)
-* **Tech Stack:** Python (Logistic Regression, Decision Trees)
+* **Tech Stack:** Python (pandas, scikit-learn, seaborn, matplotlib), Jupyter Notebook, Excel, Data Preprocessing, Logistic Regression, Random Forest, Model Evaluation
 * **Summary:** Built predictive models with **96% accuracy** to forecast employee attrition and identified key factors like workload and tenure to recommend data-driven retention strategies.
 * [Project Repository](https://github.com/sushma-ravichandran/employee-attrition-prediction)
 
 #### 2. User Churn Prediction - Waze (ML Project)
-* **Tech Stack:** Python (Random Forest, XGBoost, Logistic Regression)
+* **Tech Stack:** Python (pandas, scikit-learn, XGBoost, NumPy), Jupyter Notebook, Data Cleaning, Feature Engineering, ETL Documentation
 * **Summary:** Developed machine learning models to forecast user churn, with **XGBoost achieving 15.9% recall, nearly double the baseline logistic regression**, further boosted through feature engineering on user behavior data.
 * [Project Repository](https://github.com/sushma-ravichandran/user-churn-prediction)
   
 #### 3. Automobile Sales Forecasting (Kaggle Dataset)
-* **Tech Stack:** Tableau, Excel
+* **Tech Stack:** Excel (Pivot Tables, Advanced Functions), Tableau (Dashboarding, KPI Visualization), Data Cleaning, Trend Analysis, Reporting
 * **Summary:** Visualized automobile sales trends to provide **India-specific strategies**, including top-selling brands, fuel types, and key pricing tiers.
 * [Project Repository](https://github.com/sushma-ravichandran/automobile-sales-forecasting)
 
 #### 4. Behavioral Research on Decision-Making (M.Sc. Dissertation)
-* **Tech Stack:** IBM SPSS, Qualtrics
+* **Tech Stack:** IBM SPSS (ANOVA, Descriptive Statistics), Qualtrics (Survey Design & Data Collection), Excel, Data Interpretation, Statistical Analysis
 * **Summary:** Conducted primary research to uncover gender-specific compliance patterns in ethical decision-making, demonstrating expertise in **experimental design and inferential analysis**.
 * [Project Repository](https://github.com/sushma-ravichandran/behavioural-research-on-decision-making)
 
